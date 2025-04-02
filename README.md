@@ -1,6 +1,9 @@
 👋 Hi, I’m Harish Ganji.
+
 👀 I’m interested in technology, backend development, and full-stack. 
+
 🌱 I’m currently learning AWS and cloud deployment.
+
 💞️ I’m looking to collaborate on Java backend and full-stack development projects.
 
 Looking forward to connecting with like-minded professionals! 🚀
